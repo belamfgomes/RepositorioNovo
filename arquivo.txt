@@ -3,7 +3,7 @@ programa {
    inteiro opc
    real val=0.0, quant1=0.0, quant2=0.0, quant3=0.0, quant4=0.0
    cadeia nome
-   escreva("BEM-VINDO A ISABELA SNACKS! versao1 \n")
+   escreva("BEM-VINDO A ISABELA SNACKS! versao2 \n")
    escreva("Informe seu nome por gentileza: \n")
    leia(nome)
  
